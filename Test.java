@@ -4,6 +4,8 @@ class Greetings {
  
      System.out.println("Greetings from CJC");
      System.out.println("Greetings from CJC 1");
+     System.out.println("Greetings from CJC 2");
+
  
   }
 }
